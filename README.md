@@ -1,1 +1,1 @@
-#### Course Project for IEOR 4004
+Course Project for IEOR 4004
